@@ -40,5 +40,5 @@ Efecto Stroop
 Historial usnado room
 ---
 # Autor
-Brunella Alor Aquino 
+Brunella Zoraida Alor Aquino 
 6to Semestre - ING. SOFTWARE
