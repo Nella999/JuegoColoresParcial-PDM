@@ -34,7 +34,7 @@ fun WelcomeScreen(navController: NavController) {
         Text(
             text = "Presiona el color correcto que se muestra en pantalla.",
             fontSize = 18.sp,
-            fontFamily = FontFamily.SansSerif
+            fontFamily = FontFamily.SansSerif //para el tipo de letra
         )
 
         Spacer(modifier = Modifier.height(30.dp))

@@ -13,18 +13,18 @@ fun AppNavigation() {
 
     NavHost( //contenedor de pantallas
         navController = navController,
-        startDestination = "welcome" //welcomescreen
+        startDestination = "welcome" //muestra welcomescreen
     ) {
 
         composable("welcome") {//ruta
             WelcomeScreen(navController)
         }
 
-        composable("game") {//gamescreen
+        composable("game") {//muestra gamescreen
             GameScreen(navController, viewModel)
         }
 
-        composable("result") {//resultscreen
+        composable("result") {//muestra resultscreen
             ResultScreen(navController, viewModel)
         }
     }

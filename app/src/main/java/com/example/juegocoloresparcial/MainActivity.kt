@@ -12,7 +12,7 @@ class MainActivity : ComponentActivity() {
 
         super.onCreate(savedInstanceState)
 
-        setContent { //lo que se muestra en pantalla
+        setContent { //lo que se muestra en pantalla del usuario
             JuegoColoresParcialTheme {
                 AppNavigation()
             }

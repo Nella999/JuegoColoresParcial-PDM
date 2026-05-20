@@ -48,7 +48,7 @@ class GameViewModel : ViewModel() {
         _currentColor.value = colors.random() //Cambiar el color de manera random
     }
 
-    // Aumenta la dificultad restando tiempo
+    // Disminuye el tiempo
     fun decreaseTime(){
         _timeLeft.value--
     }

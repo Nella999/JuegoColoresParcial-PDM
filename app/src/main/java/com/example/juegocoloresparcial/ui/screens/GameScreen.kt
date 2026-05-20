@@ -30,7 +30,7 @@ fun GameScreen(
 
     LaunchedEffect(key1 = timeLeft) {
         if (timeLeft > 0) {
-            delay(1000) //esperar 1 sec
+            delay(1000) //esperar 1 segundo
             viewModel.decreaseTime()//reduce el tiempo
         }
 

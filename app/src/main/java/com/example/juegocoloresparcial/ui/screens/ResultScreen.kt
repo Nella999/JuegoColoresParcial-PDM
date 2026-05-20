@@ -48,7 +48,7 @@ fun ResultScreen(
         LazyColumn(
             modifier = Modifier.height(200.dp)
         ) {
-            items(viewModel.history) {
+            items(viewModel.history) {//mostrar historial
                 Text("Puntaje: $it")
             }
         }
