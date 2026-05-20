@@ -14,7 +14,7 @@ El jugador debe obtener la mayor cantidad de puntos posibles en 30 segundos.
 ---
 # Pantallas de la aplicación
 
-## WelcomeScreen
+## WelcomeScreen 
 Pantalla inicial con:
 - título del juego
 - instrucciones
