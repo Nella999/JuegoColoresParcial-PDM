@@ -41,4 +41,4 @@ Historial usnado room
 ---
 # Autor
 Brunella Zoraida Alor Aquino 
-6to Semestre - ING. SOFTWARE
+6to Semestre ING. SOFTWARE
